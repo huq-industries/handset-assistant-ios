@@ -4,7 +4,7 @@ This repository contains the components required to distribute the Handset Assis
 
 Users can reference the url of this repository directly in order to include the HandsetAssistant framework in their project.
 
-###Updating the Library Binary
+### Updating the Library Binary
 
 The HandsetAssistant library binary is updated by the `handset-assistant-ios-framework` as standard when a new version is created there.
 
