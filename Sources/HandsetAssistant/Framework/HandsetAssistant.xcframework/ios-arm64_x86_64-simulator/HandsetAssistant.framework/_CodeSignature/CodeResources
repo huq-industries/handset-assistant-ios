@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/HandsetAssistant-Swift.h</key>
 		<data>
-		dH6Ti9x6uTe2xRFX4ma/v6ZmSys=
+		27vBZ3GGy55evwShDxL0ZefaVQE=
 		</data>
 		<key>Headers/HandsetAssistant.h</key>
 		<data>
@@ -14,55 +14,55 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		McsaKLYVGj/FoZpPTYjaac/52qc=
+		Fzbm/j9TCFXJzfrpnZe3FPCJjVM=
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		dWafXvMBmoIkOXw3pMrQKsH+uEo=
+		dZtyD1V2izYJ/kOcZCvKfV5gtdU=
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		eTgrHS2jS8wNOUNqrYgQi5aaTRs=
+		DLaZV8nIEQeRDG7i4nXqGKYDZgE=
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8Ib0/js2Uw3AXt9qAkTQDXxwaa8=
+		PMR+3XkCmR7La1+uJhCk5iVAi5Y=
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		dWafXvMBmoIkOXw3pMrQKsH+uEo=
+		dZtyD1V2izYJ/kOcZCvKfV5gtdU=
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		eTgrHS2jS8wNOUNqrYgQi5aaTRs=
+		DLaZV8nIEQeRDG7i4nXqGKYDZgE=
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		8Ib0/js2Uw3AXt9qAkTQDXxwaa8=
+		PMR+3XkCmR7La1+uJhCk5iVAi5Y=
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		fK1NHmFglQkwwqcS0QkU8nteI9o=
+		XvQuntFTo6Pi1ewFJqhSVuiZkzM=
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		VkgmPeoOTfpgeZgzI4ZkUK5Rpns=
+		ZedtTr1kVNfWxyGQ8HNmVX8PABE=
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		pT0CM//BPxMR4VggLcbP5RZ5M8o=
+		GE5b09x37hrQkQf0D9/lGXrwxfE=
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		fK1NHmFglQkwwqcS0QkU8nteI9o=
+		XvQuntFTo6Pi1ewFJqhSVuiZkzM=
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		VkgmPeoOTfpgeZgzI4ZkUK5Rpns=
+		ZedtTr1kVNfWxyGQ8HNmVX8PABE=
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		pT0CM//BPxMR4VggLcbP5RZ5M8o=
+		GE5b09x37hrQkQf0D9/lGXrwxfE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -75,7 +75,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gW+JYNZW3FxwbOu9dDp7S60Vr1LPMaVB4lF5dH6APl0=
+			nvJzWRnTkyJyrtxoFNt9FWShR6/x1G5DSh2Iw2rhcMI=
 			</data>
 		</dict>
 		<key>Headers/HandsetAssistant.h</key>
@@ -89,84 +89,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L7jxUKSs/mdqitiHCz9ntOXAw3gNOD7Md4TFPQPjkzI=
+			t6kQjN2+XtzP2G2zXFPFVelC64r42RBuHvSgroOq0fY=
 			</data>
 		</dict>
 		<key>Modules/HandsetAssistant.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IQZkxv6Hj4yVy4Uc9MLuI+AyqoA/vFS+iO0dq1bsvqo=
+			oTNLWuiUAvHE17pN/KOonJrTxPTmNNi3DR5aNqR6GwI=
 			</data>
 		</dict>
 		<key>Modules/HandsetAssistant.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wXDUv5pKSn/IUBqtQqqGGcdjC5ZFErEJ7vAPSQZrCxk=
+			yEahsunQnXsWCgzKkuNPzSfg29R3uCbtp/VANAMY1YU=
 			</data>
 		</dict>
 		<key>Modules/HandsetAssistant.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L7jxUKSs/mdqitiHCz9ntOXAw3gNOD7Md4TFPQPjkzI=
+			t6kQjN2+XtzP2G2zXFPFVelC64r42RBuHvSgroOq0fY=
 			</data>
 		</dict>
 		<key>Modules/HandsetAssistant.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IQZkxv6Hj4yVy4Uc9MLuI+AyqoA/vFS+iO0dq1bsvqo=
+			oTNLWuiUAvHE17pN/KOonJrTxPTmNNi3DR5aNqR6GwI=
 			</data>
 		</dict>
 		<key>Modules/HandsetAssistant.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wXDUv5pKSn/IUBqtQqqGGcdjC5ZFErEJ7vAPSQZrCxk=
+			yEahsunQnXsWCgzKkuNPzSfg29R3uCbtp/VANAMY1YU=
 			</data>
 		</dict>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bHVseoVAbeG491GQfv5953ts6RXYiDO4kpWHA8qUw4g=
+			C2Hirz3EMSxPdYpuDYYfJ7F/dGNYoA6IbbxAGxFMThg=
 			</data>
 		</dict>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EXeIMfPqc/sBU6YAJlS3q0AAxhy6QBjy6x2L6LljXFs=
+			P27Gm1VejJPt8W1QFRwBzTKOxA4qrfJFzdPQAoLG2/Q=
 			</data>
 		</dict>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OmNwg4cJxBeq4386zaLn1LpRV/tJH4wJlwwGyC975t0=
+			eYp+cSW4vDgFSwID8C/BKx5x/qGLqW/u3ZtpBKYd8pw=
 			</data>
 		</dict>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bHVseoVAbeG491GQfv5953ts6RXYiDO4kpWHA8qUw4g=
+			C2Hirz3EMSxPdYpuDYYfJ7F/dGNYoA6IbbxAGxFMThg=
 			</data>
 		</dict>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EXeIMfPqc/sBU6YAJlS3q0AAxhy6QBjy6x2L6LljXFs=
+			P27Gm1VejJPt8W1QFRwBzTKOxA4qrfJFzdPQAoLG2/Q=
 			</data>
 		</dict>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OmNwg4cJxBeq4386zaLn1LpRV/tJH4wJlwwGyC975t0=
+			eYp+cSW4vDgFSwID8C/BKx5x/qGLqW/u3ZtpBKYd8pw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
