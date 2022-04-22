@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		PMR+3XkCmR7La1+uJhCk5iVAi5Y=
+		1I3X1aKw7pBBWFTSgd1cxsWQjlQ=
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		PMR+3XkCmR7La1+uJhCk5iVAi5Y=
+		1I3X1aKw7pBBWFTSgd1cxsWQjlQ=
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GE5b09x37hrQkQf0D9/lGXrwxfE=
+		Kkip3dlX5QBaIs7TgG5RCEee5oU=
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		GE5b09x37hrQkQf0D9/lGXrwxfE=
+		Kkip3dlX5QBaIs7TgG5RCEee5oU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -103,7 +103,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yEahsunQnXsWCgzKkuNPzSfg29R3uCbtp/VANAMY1YU=
+			gCd2+8fNUkKL69JkUo6nUtOHs5en8BPm7gHVCu8ENIU=
 			</data>
 		</dict>
 		<key>Modules/HandsetAssistant.swiftmodule/arm64.swiftdoc</key>
@@ -124,7 +124,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yEahsunQnXsWCgzKkuNPzSfg29R3uCbtp/VANAMY1YU=
+			gCd2+8fNUkKL69JkUo6nUtOHs5en8BPm7gHVCu8ENIU=
 			</data>
 		</dict>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -145,7 +145,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eYp+cSW4vDgFSwID8C/BKx5x/qGLqW/u3ZtpBKYd8pw=
+			G5Vn3puDUPLjy1s9RL9lsI+TVdfvlVNR0AdiHdnEgk4=
 			</data>
 		</dict>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64.swiftdoc</key>
@@ -166,7 +166,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eYp+cSW4vDgFSwID8C/BKx5x/qGLqW/u3ZtpBKYd8pw=
+			G5Vn3puDUPLjy1s9RL9lsI+TVdfvlVNR0AdiHdnEgk4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
