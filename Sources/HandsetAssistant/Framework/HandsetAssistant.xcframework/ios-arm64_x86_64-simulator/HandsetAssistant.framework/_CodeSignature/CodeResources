@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Fzbm/j9TCFXJzfrpnZe3FPCJjVM=
+		2GBEG/LCSK8ChhcAn1b1iIsxzf8=
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		1I3X1aKw7pBBWFTSgd1cxsWQjlQ=
+		8s5HqH2TWXoBKqerf48z0lPBiOQ=
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		1I3X1aKw7pBBWFTSgd1cxsWQjlQ=
+		8s5HqH2TWXoBKqerf48z0lPBiOQ=
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Kkip3dlX5QBaIs7TgG5RCEee5oU=
+		euPmpCrHYIO5pJCAF/y8kZlkYv8=
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		Kkip3dlX5QBaIs7TgG5RCEee5oU=
+		euPmpCrHYIO5pJCAF/y8kZlkYv8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -103,7 +103,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gCd2+8fNUkKL69JkUo6nUtOHs5en8BPm7gHVCu8ENIU=
+			MntltPgKxZ5j5xkwTzdeYRCvTZ1GZmOE0UDEAHuZNA8=
 			</data>
 		</dict>
 		<key>Modules/HandsetAssistant.swiftmodule/arm64.swiftdoc</key>
@@ -124,7 +124,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gCd2+8fNUkKL69JkUo6nUtOHs5en8BPm7gHVCu8ENIU=
+			MntltPgKxZ5j5xkwTzdeYRCvTZ1GZmOE0UDEAHuZNA8=
 			</data>
 		</dict>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -145,7 +145,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G5Vn3puDUPLjy1s9RL9lsI+TVdfvlVNR0AdiHdnEgk4=
+			X2mEYARg3qrc08jJ7wyBAH6sHrDbhH1GhHeGUIc0Lz0=
 			</data>
 		</dict>
 		<key>Modules/HandsetAssistant.swiftmodule/x86_64.swiftdoc</key>
@@ -166,7 +166,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G5Vn3puDUPLjy1s9RL9lsI+TVdfvlVNR0AdiHdnEgk4=
+			X2mEYARg3qrc08jJ7wyBAH6sHrDbhH1GhHeGUIc0Lz0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
